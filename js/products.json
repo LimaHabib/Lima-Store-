@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Linen Summer Dress",
+    "category": "Women",
+    "price": 54.0,
+    "image": "./Linen Summer Dress.jpg",
+    "description": "Lightweight linen dress perfect for warm days."
+  },
+  {
+    "id": 2,
+    "title": "Silk Blouse",
+    "category": "Women",
+    "price": 48.0,
+    "image": "./Silk Blouse.jpg",
+    "description": "Elegant silk blouse for casual or office wear."
+  },
+  {
+    "id": 3,
+    "title": "Tailored Blazer",
+    "category": "Men",
+    "price": 129.0,
+    "image": "Tailored Blazer.jpg",
+    "description": "Sharp tailored blazer crafted for a sleek silhouette."
+  },
+  {
+    "id": 4,
+    "title": "Denim Jeans",
+    "category": "Men",
+    "price": 69.0,
+    "image": "Denim Jeans.jpg",
+    "description": "Classic straight-cut denim with comfortable stretch."
+  },
+  {
+    "id": 5,
+    "title": "Casual Sneakers",
+    "category": "Shoes",
+    "price": 89.0,
+    "image": "Casual Sneakers.jpg",
+    "description": "All-day comfort sneakers with modern design."
+  },
+  {
+    "id": 6,
+    "title": "Leather Handbag",
+    "category": "Accessories",
+    "price": 149.0,
+    "image": "Leather Handbag.jpg",
+    "description": "Handcrafted leather handbag with premium finish."
+  },
+  {
+    "id": 7,
+    "title": "Wool Coat",
+    "category": "Women",
+    "price": 199.0,
+    "image": "Wool Coat.jpg",
+    "description": "Warm wool coat with a timeless cut."
+  },
+  {
+    "id": 8,
+    "title": "Chiffon Evening Gown",
+    "category": "Women",
+    "price": 229.0,
+    "image": "Chiffon Evening Gown.jpg",
+    "description": "Flowing chiffon gown for special occasions."
+  },
+  {
+    "id": 9,
+    "title": "Running Shoes",
+    "category": "Shoes",
+    "price": 99.0,
+    "image": "Running Shoes.jpg",
+    "description": "Lightweight running shoes with responsive cushioning."
+  },
+  {
+    "id": 10,
+    "title": "Canvas Tote",
+    "category": "Accessories",
+    "price": 39.0,
+    "image": "Canvas Tote.jpg",
+    "description": "Durable canvas tote for everyday use."
+  },
+  {
+    "id": 11,
+    "title": "Crewneck Sweater",
+    "category": "Men",
+    "price": 59.0,
+    "image": "Crewneck Sweater.jpg",
+    "description": "Soft knit sweater in versatile colors."
+  },
+  {
+    "id": 12,
+    "title": "Sunglasses",
+    "category": "Accessories",
+    "price": 79.0,
+    "image": "Sunglasses.jpg",
+    "description": "Polarized sunglasses with UV protection."
+  },
+  {
+    "id": 13,
+    "title": "Pleated Skirt",
+    "category": "Women",
+    "price": 44.0,
+    "image": "Pleated Skirt.jpg",
+    "description": "Midi pleated skirt with graceful movement."
+  },
+  {
+    "id": 14,
+    "title": "Oxford Shoes",
+    "category": "Men",
+    "price": 139.0,
+    "image": "Oxford Shoes.jpg",
+    "description": "Classic oxford shoes finished in polished leather."
+  },
+  {
+    "id": 15,
+    "title": "Beanie Knit Hat",
+    "category": "Accessories",
+    "price": 24.0,
+    "image": "Beanie Knit Hat.jpg",
+    "description": "Cozy knit beanie for chilly days."
+  }
+]
